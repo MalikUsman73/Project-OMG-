@@ -1,0 +1,11 @@
+# Ignore build and IDE junk
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.vcxproj.filters
+*.obj
+*.pdb
+*.log
