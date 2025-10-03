@@ -1,0 +1,1 @@
+This is file 02 which is basically identified as a new feature and will be placed in b1 branch which is not the master branch. Hehe
