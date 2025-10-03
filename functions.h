@@ -1,4 +1,7 @@
-#pragma once
+//writing this comment to make the first major change
+
+
+
 class dummy {
 public:
 	string name;
